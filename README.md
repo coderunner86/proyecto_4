@@ -43,6 +43,6 @@ Music Manager es un proyecto backend para gestionar una lista de música. Permit
 
 ### 3. Ejecutar el proyecto:
 
-    ```
+    ```bash
     node server.js
     ```
